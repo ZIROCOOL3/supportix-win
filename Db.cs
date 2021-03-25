@@ -20,8 +20,8 @@ namespace SupportixWin
             {
                 MySqlConnectionStringBuilder builder = new MySqlConnectionStringBuilder();
                 builder.Server = "localhost";
-                builder.UserID = "root";
-                builder.Password = "";
+                builder.UserID = "newuser";
+                builder.Password = "password";
                 builder.Database = "supportix";
                 constatic = new MySqlConnection(builder.ToString());
                 constatic.Open();

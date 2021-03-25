@@ -19,3 +19,23 @@ C:\Users\evilnapsis\source\repos\SupportixWin\obj\Debug\SupportixWin.ProjectsFor
 C:\Users\evilnapsis\source\repos\SupportixWin\obj\Debug\SupportixWin.NewTicketForm.resources
 C:\Users\evilnapsis\source\repos\SupportixWin\obj\Debug\SupportixWin.UsersForm.resources
 C:\Users\evilnapsis\source\repos\SupportixWin\obj\Debug\SupportixWin.EditTicketForm.resources
+G:\datos\Mis documentos\GitHub\supportix-win\bin\Debug\SupportixWin.exe.config
+G:\datos\Mis documentos\GitHub\supportix-win\bin\Debug\SupportixWin.exe
+G:\datos\Mis documentos\GitHub\supportix-win\bin\Debug\SupportixWin.pdb
+G:\datos\Mis documentos\GitHub\supportix-win\bin\Debug\Google.Protobuf.dll
+G:\datos\Mis documentos\GitHub\supportix-win\bin\Debug\BouncyCastle.Crypto.dll
+G:\datos\Mis documentos\GitHub\supportix-win\bin\Debug\Renci.SshNet.dll
+G:\datos\Mis documentos\GitHub\supportix-win\bin\Debug\MySql.Data.xml
+G:\datos\Mis documentos\GitHub\supportix-win\obj\Debug\SupportixWin.csprojAssemblyReference.cache
+G:\datos\Mis documentos\GitHub\supportix-win\obj\Debug\SupportixWin.CategoriesForm.resources
+G:\datos\Mis documentos\GitHub\supportix-win\obj\Debug\SupportixWin.Form1.resources
+G:\datos\Mis documentos\GitHub\supportix-win\obj\Debug\SupportixWin.EditTicketForm.resources
+G:\datos\Mis documentos\GitHub\supportix-win\obj\Debug\SupportixWin.NewTicketForm.resources
+G:\datos\Mis documentos\GitHub\supportix-win\obj\Debug\SupportixWin.ProjectsForm.resources
+G:\datos\Mis documentos\GitHub\supportix-win\obj\Debug\SupportixWin.Properties.Resources.resources
+G:\datos\Mis documentos\GitHub\supportix-win\obj\Debug\SupportixWin.UsersForm.resources
+G:\datos\Mis documentos\GitHub\supportix-win\obj\Debug\SupportixWin.csproj.GenerateResource.cache
+G:\datos\Mis documentos\GitHub\supportix-win\obj\Debug\SupportixWin.csproj.CoreCompileInputs.cache
+G:\datos\Mis documentos\GitHub\supportix-win\obj\Debug\SupportixWin.csproj.CopyComplete
+G:\datos\Mis documentos\GitHub\supportix-win\obj\Debug\SupportixWin.exe
+G:\datos\Mis documentos\GitHub\supportix-win\obj\Debug\SupportixWin.pdb
